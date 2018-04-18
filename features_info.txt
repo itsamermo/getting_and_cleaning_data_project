@@ -1,0 +1,52 @@
+The set of variables that were estimated from tri axial signals(x,yz components) obtained from accelerometer of smart phone.
+
+
+lbl -- activity label range from 1-6. see details in activity_labels.txt
+lbl_desc -- see details in activity_labels.txt
+sub -- represents each subject (from 1-30 human subjects that participated in the experiment)
+
+tBodyAcc-mean()-X,Y,Z -- triaxial components of signals for body acceleration --reading 
+tBodyAcc-std()-X,Y,Z
+tGravityAcc-mean()-X,Y,Z
+tGravityAcc-std()-X,Y,Z
+tBodyAccJerk-mean()-X,Y,Z
+tBodyAccJerk-std()-X,Y,Z
+tBodyGyro-mean()-X,Y,Z
+tBodyGyro-std()-X,Y,Z
+tBodyGyroJerk-mean()-X,Y,Z
+tBodyGyroJerk-std()-X,Y,Z
+tBodyAccMag-mean()
+tBodyAccMag-std()
+tGravityAccMag-mean()
+tGravityAccMag-std()
+tBodyAccJerkMag-mean()
+tBodyAccJerkMag-std()
+tBodyGyroMag-mean()
+tBodyGyroMag-std()
+tBodyGyroJerkMag-mean()
+tBodyGyroJerkMag-std()
+fBodyAcc-mean()-X,Y,Z
+fBodyAcc-std()-X,Y,Z
+fBodyAcc-meanFreq()-X,Y,Z
+fBodyAccJerk-mean()-X,Y,Z
+fBodyAccJerk-std()-X,Y,Z
+fBodyAccJerk-meanFreq()-X,Y,Z
+fBodyGyro-mean()-X,Y,Z
+fBodyGyro-std()-X,Y,Z
+fBodyGyro-meanFreq()-X,Y,Z
+fBodyAccMag-mean()
+fBodyAccMag-std()
+fBodyAccMag-meanFreq()
+fBodyBodyAccJerkMag-mean()
+fBodyBodyAccJerkMag-std()
+fBodyBodyAccJerkMag-meanFreq()
+fBodyBodyGyroMag-mean()
+fBodyBodyGyroMag-std()
+fBodyBodyGyroMag-meanFreq()
+fBodyBodyGyroJerkMag-mean()
+fBodyBodyGyroJerkMag-std()
+fBodyBodyGyroJerkMag-meanFreq()
+
+
+
+The complete list of variables of each feature vector is available in 'features.txt'
